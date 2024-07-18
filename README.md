@@ -48,8 +48,50 @@
 
 **Skills Demonstrated:** Class imbalance handling (upsampling vs downsampling), data encoding, and model evaluation
 
-[) ]()
+[9) Oil Well Development Profitability and Risk Assessment](https://github.com/ChStLeGitHub/Project09-Oil-Well-Development-Profitability-and-Risk-Assessment)
 
-**Objective:**
+**Objective:** To determine which among three regions strikes the best balance between being a profitable and a low-risk location for the development of new oil wells by the mining company OilyGiant.
 
-**Skills Demonstrated:**
+**Skills Demonstrated:** Linear regression, data interpretation, bootstrapping, profit maximization, and risk assessment
+
+[10) Predictive Modeling for Gold Recovery](https://github.com/ChStLeGitHub/Project10-Predictive-Modeling-for-Gold-Recovery)
+
+**Objective:** To develop a prototype machine learning model for Zyfra, a company that develops efficiency solutions for heavy industry, that predicts the amount of gold recovered from ore during the extraction and purification processes so that Zyfra can optimize product efficiency and identify unprofitable parameters.
+
+**Skills Demonstrated:** Data evaluation, data visualization, kernel density estimation (KDE), cross-validation, and model evaluation
+
+[11) Predicting Insurance Benefits and Data Masking](https://github.com/ChStLeGitHub/Project11-Predicting-Insurance-Benefits-and-Data-Masking)
+
+**Objective:** To leverage linear regression analysis, the k-nearest neighbors (KNN) algorithm, and linear algebra to assist Sure Tomorrow insurance company with customer segmentation, benefits prediction, and data privacy protection.
+
+**Skills Demonstrated:** Linear regression, k-nearest neighbors (KNN), linear algebra, data obfuscation, and mathematical proof
+
+[12) Estimating Market Value of Used Cars](https://github.com/ChStLeGitHub/Project12-Estimating-Market-Value-of-Used-Cars)
+
+**Objective:** To develop a machine learning model for Rusty Bargain, a used car sales company that is building an app intended to accurately and swiftly predict the market value of used cars.
+
+**Skills Demonstrated:** Exploratory data analysis, data encoding and scaling, gradient boosting algorithms (CatBoost, LightGBM, and XGBRegressor), wall time optimization, and model performance analysis
+
+[13) Optimizing Taxi Driver Allocation](https://github.com/ChStLeGitHub/Project13-Optimizing-Taxi-Driver-Allocation)
+
+**Objective:** To analyze time series data on taxi orders at airports and to develop a predictive model capable of accurately forecasting the number of taxi orders for the next hour, thereby allowing Sweet Lift Taxi to optimize driver allocation during peak hours.
+
+**Skills Demonstrated:** Time series analysis, resampling, data visualization, feature engineering, and model evaluation
+
+[14) Classifying Written Movie Reviews](https://github.com/ChStLeGitHub/Project14-Classifying-Written-Movie-Reviews)
+
+**Objective:** To develop a model for the Film Junky Union, a community of classic movie enthusiasts, that is capable of classifying IMDB movie reviews as positive or negative with high accuracy.
+
+**Skills Demonstrated:** Data preprocessing, exploratory data analysis, data visualization, text processing (text cleaning, lemmatization, and vectorization), and model evaluation
+
+[15) Ensuring Legal Drinking Age Compliance](https://github.com/ChStLeGitHub/Project15-Ensuring-Legal-Drinking-Age-Compliance)
+
+**Objective:** To develop and assess the efficacy of a computer vision model aimed at verifying the age of customers in the checkout area of Good Seed supermarkets in order to prevent the sale of alcohol to underage individuals.
+
+**Skills Demonstrated:** Computer vision techniques (e.g. horizontal flips, zooming, and rotation), model architecture selection, optimization algorithm (Adam) deployment, and model evaluation
+
+[16) Forecasting Telecom Customer Retention and Churn](https://github.com/ChStLeGitHub/Project16-Forecasting-Telecom-Customer-Retention-and-Churn)
+
+**Objective:** To develop a machine learning model for the telecom operator Interconnect that uses data of customers' contract details, internet usage, phone usage, and demographic information to predict customer churn, thereby allowing Interconnect to offer promotional codes and special plan options to customers who are expected to leave.
+
+**Skills Demonstrated:** Data preparation, feature engineering, exploratory data analysis, model evaluation, and feature importance analysis
